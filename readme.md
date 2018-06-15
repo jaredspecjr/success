@@ -4,3 +4,14 @@ Honestly I'm not sure what would make me feel more confident. But one things for
 
 
 2. I guess I do feel unprepared for the job search in general. I've never done a cover letter before. I don't even know where to begin(will be working on that today). I'm afraid.. of the unknown. I'd like to study more javascript and react before I even try to search for a job. which I've been trying to do in my spare time.
+
+
+## Make a Plan
+1. Make a few projects in react
+2. Search for info about the surrounding businesses and what they do.
+3. Focus on writing a good cover letter, i have a lot of questions about it.
+4. Focus on making a resume.
+5. Focus on finishing my linkedIn.
+6. Continue sprucing up github.
+7. Study an extra Javascript course
+8. Study an extra React course
