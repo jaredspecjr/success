@@ -7,11 +7,11 @@ Honestly I'm not sure what would make me feel more confident. But one things for
 
 
 ## Make a Plan
-1. Make a few projects in react
-2. Search for info about the surrounding businesses and what they do.
-3. Focus on writing a good cover letter, i have a lot of questions about it.
-4. Focus on making a resume.
-5. Focus on finishing my linkedIn.
-6. Continue sprucing up github.
-7. Study an extra Javascript course
-8. Study an extra React course
+1. Search for info about the surrounding businesses and what they do.
+2. Focus on writing a good cover letter, i have a lot of questions about it.
+3. Focus on making a resume.
+4. Focus on finishing my linkedIn.
+5. Continue sprucing up github.
+6. Study an extra Javascript course
+7. Study an extra React course
+8. Make a few projects in react
