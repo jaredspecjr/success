@@ -21,6 +21,7 @@ Honestly I'm not sure what would make me feel more confident. But one things for
 a link to one of the websites I'm viewing http://portlandtech.org/.
 2. finished working on finishing LinkedIn from yesterday
 3. finished working on Resume will include the PDF in my readme
+5. Being work on Cover Letter. 
 
 
 #IMPORTANT SIDE NOTE
