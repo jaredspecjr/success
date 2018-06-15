@@ -8,15 +8,15 @@ Honestly I'm not sure what would make me feel more confident. But one things for
 
 ## Make a Plan
 1. Search for info about the surrounding businesses and what they do.
-2. Focus on writing a good cover letter, i have a lot of questions about it.
+2. Focus on finishing my linkedIn.
 3. Focus on making a resume.
-4. Focus on finishing my linkedIn.
+4. Focus on writing a good cover letter, i have a lot of questions about it.
 5. Continue sprucing up github.
 6. Study an extra Javascript course
 7. Study an extra React course
 8. Make a few projects in react
 
-## Execute Plan
+## Execute the Plan
 1. I've been google searching and asking classmates in the slack about what businesses are around. here's
 a link to one of the websites I'm viewing http://portlandtech.org/.
-2. 
+2. working on finishing LinkedIn from yesterday
