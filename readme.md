@@ -21,3 +21,4 @@ Honestly I'm not sure what would make me feel more confident. But one things for
 a link to one of the websites I'm viewing http://portlandtech.org/.
 2. finished working on finishing LinkedIn from yesterday
 3. working on resume
+STILL WORKING ON RESUME
