@@ -15,3 +15,8 @@ Honestly I'm not sure what would make me feel more confident. But one things for
 6. Study an extra Javascript course
 7. Study an extra React course
 8. Make a few projects in react
+
+## Execute Plan
+1. I've been google searching and asking classmates in the slack about what businesses are around. here's
+a link to one of the websites I'm viewing http://portlandtech.org/.
+2. 
