@@ -21,3 +21,7 @@ Honestly I'm not sure what would make me feel more confident. But one things for
 a link to one of the websites I'm viewing http://portlandtech.org/.
 2. finished working on finishing LinkedIn from yesterday
 3. finished working on Resume will include the PDF in my readme
+
+
+#IMPORTANT SIDE NOTE
+I would like to use my current github projects linked in my resume and linkedIn to be placeholders for now until I have more complex projects made with react. if i could.
