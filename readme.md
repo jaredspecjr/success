@@ -20,5 +20,4 @@ Honestly I'm not sure what would make me feel more confident. But one things for
 1. I've been google searching and asking classmates in the slack about what businesses are around. here's
 a link to one of the websites I'm viewing http://portlandtech.org/.
 2. finished working on finishing LinkedIn from yesterday
-3. working on resume
-STILL WORKING ON RESUME
+3. finished working on Resume will include the PDF in my readme
